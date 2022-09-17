@@ -21,5 +21,6 @@ const UserSchema = new Schema({
         default : Date.now
     },
 });
-
-module.exports=mongoose.model('user', UserSchema);
+const User=mongoose.model('user', UserSchema); //use for valiation not create same email adress to new user
+User.createIndexes();
+module.exports=User;
