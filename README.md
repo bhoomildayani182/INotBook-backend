@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+# INotBook-backend
+>>>>>>> 9a922ab2d92a8a6a7649fe0a3dd44bc41f4ebc6d
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
